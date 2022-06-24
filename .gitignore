@@ -2,6 +2,10 @@ Testing
 install_manifest.txt
 _deps
 
+build.sh
+sonar-bw/
+.scannerwork/
+
 # CMake:
 CMakeLists.txt.user
 CMakeCache.txt
